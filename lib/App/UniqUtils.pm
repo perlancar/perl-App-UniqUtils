@@ -100,7 +100,9 @@ This distributions provides the following command-line utilities:
 
 =head1 SEE ALSO
 
-L<App::nauniq>
+L<nauniq> from L<App::nauniq>
+
+L<setop> from L<App::setop>, especially C<setop --diff>.
 
 L<csv-lookup-fields> from L<App::CSVUtils>
 
